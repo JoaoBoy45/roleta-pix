@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Roleta pix</string>
+    <string name="regras_sorteio">Regras: \n 1. Sorteio feito todo sabados. \n 2. Quanto mais resgates, maior chance de ser sorteado.</string>
+</resources>
